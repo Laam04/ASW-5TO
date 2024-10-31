@@ -24,5 +24,3 @@ src/routes/parquearroutes.ts
 
   [GET Parquear](ejGET.png)
   [POST Parquear](ejPOST.png)
-
-Al realizar el POST para Parquear no logré que los datos se relacionaran de forma que muestre el id de vehiculo y espacio correspondientes, solo aparecen como null.
